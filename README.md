@@ -1,7 +1,5 @@
-"# rengoft" 
 <h1 align="center">Hi there, I'm Aleksey! Welcome to my repository!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Data Science student from Russia
 
 # Junior Data Scientist
 ## Key competencies
@@ -28,3 +26,5 @@
 English (C1)
 ## Professional experience
 Studying for a master's degree in Data Science at the National University of Science and Technology (MISiS).
+
+"# rengoft" 
