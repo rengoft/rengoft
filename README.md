@@ -28,5 +28,5 @@ English (C1)
 Studying for a master's degree in Data Science at the National University of Science and Technology (MISiS).
 
 ## Let us be in touch via:
-E-mail: tyazhev@ngs.ru  (preferred contact way) 
+E-mail: tyazhev@ngs.ru  (preferred contact way)  
 Phone: +7 903 999 7704
