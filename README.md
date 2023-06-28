@@ -25,7 +25,7 @@
 ## On the side
 English (C1)
 ## Professional experience
-Studying for a master's degree in Data Science at the National University of Science and Technology (MISIS).
+2021-2023 years of study towards master's degree in Data Science at the National University of Science and Technology MISIS.
 
 ## Let us be in touch via:
 E-mail: tyazhev@ngs.ru  (preferred contact way)  
