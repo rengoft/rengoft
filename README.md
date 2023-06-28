@@ -28,5 +28,5 @@ English (C1)
 2021-2023 years of study towards master's degree in Data Science at the National University of Science and Technology MISIS.
 
 ## Let us be in touch via:
-E-mail: tyazhev@ngs.ru  (preferred contact way)  
-Phone: +7 903 999 7704
+E-mail: tyazhev@ngs.ru  
+Phone: +7 903 999 7704 (preferred contact way)
